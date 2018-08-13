@@ -1,0 +1,6 @@
+{
+  "appId": "io.civ.xc",
+  "appName": "CIVXtoC",
+  "bundledWebRuntime": true,
+  "webDir": "www"
+}
