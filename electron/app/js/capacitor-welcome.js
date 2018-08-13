@@ -51,7 +51,7 @@ window.customElements.define('capacitor-welcome', class extends HTMLElement {
     </style>
     <div>
       <capacitor-welcome-titlebar>
-        <h1>Capacitor</h1>
+        <h1>Capacitor Ionic App</h1>
       </capacitor-welcome-titlebar>
       <main>
         <p>
